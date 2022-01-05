@@ -1,4 +1,4 @@
-package sum
+package calc
 
 // Sum accepts a slice of numbers and return the total
 func Sum(numbers []int) int {
